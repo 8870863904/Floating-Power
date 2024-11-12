@@ -1,0 +1,46 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\titleformat{\section}[block]{\normalfont\bfseries}{\thesection}{1em}{}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE \textbf{DHANSHRI CHETIA}} \\
+  \href{dhanshrichetia123@gmail.com}{dhanshrichetia123@gmail.com} | 7638059916 | \href{https://yourwebsite.com}{dhanshri.com}
+\end{center}
+
+\section*{Education}
+\noindent
+\textbf{Dibrugarh University} \hfill Graduation Date: July 2024 \\
+Degree: Bachelor in Computer Application \\
+Relevant Courses: Master in Computer Application
+
+\section*{Experience}
+\noindent
+\textbf{FACEBOOK} \hfill Web Developer \\
+\textit{10 June 2023} \\
+
+
+\section*{Skills}
+\begin{itemize}[left=0pt]
+  \item Coder
+  \item Web Developer
+  \item Graphics Designer
+\end{itemize}
+
+\section*{Projects}
+\noindent
+\textbf{Chat Application} \hfill Date \\
+Designed a real time chat application with features like user authentication, secure message transmission and group chat functionality.
+
+\section*{Certifications}
+\noindent
+Microsoft Certified \hfill 10 january 2024
+
+\section*{References}
+Available upon request.
+
+\end{document}
